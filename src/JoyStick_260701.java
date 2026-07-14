@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.List;
-
 public class JoyStick_260701 {
     public int solution(String name) {
         int answer = 0;
